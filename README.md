@@ -44,8 +44,8 @@ Eine vollständige Liste aller Befehle findest du auf adrundaal.de
 Auf unserem Vorbauserver leben wir unsere Ideen aus, bereiten unsere Bauten vor, und entwerfen gemeinsam Neues.
 Bitte halte dich an unsere Regeln am Vorbauserver: Erstelle mit /warp [warpname] warps zu deinen Bauten, so findest du selbst wieder hin, und wir auch. Stelle deinen Entwurf immer im richtigen Bereich ab. Markiere deine Bauten mit Wolle & deinem Namen.
 
-IP      wintershelm.de
-LIVEMAP          http://wintershelm.de:xxxx
+IP               "wintershelm.de"
+LIVEMAP          "http://map.wintershelm.de"
 
 Mehr Infos zum  Wintershelmer Vorbauserver findest du in der Sektion #bauen unten.
 

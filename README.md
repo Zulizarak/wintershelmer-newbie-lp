@@ -60,7 +60,7 @@ Miningwelt, am Meisten gebrauchte Ressourcen (Eichenholz, Cobblestone, etc), Son
 
 ## Bauen
 
-Grundstücke, Vorbauserver (Regeln, Worldedit, tpp's, Schematics), Stadtfinanzierungen, Dein erstes Gebäude - Wohnhaus, öffentliche Gebäude, Bauernschaften, gemeinsames Bauen, Werkzeuge kaufen
+Grundstücke, Vorbauserver (Regeln, Worldedit, tpp's, Schematics), Stadtfinanzierungen, Dein erstes Gebäude - Wohnhaus, öffentliche Gebäude, Bauernschaften, gemeinsames Bauen, Werkzeuge kaufen, Map der Stadtviertel in Wintershelm
 
 ## Handeln
 

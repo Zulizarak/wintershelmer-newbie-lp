@@ -66,6 +66,18 @@ Grundstücke, Vorbauserver (Regeln, Worldedit, tpp's, Schematics), Stadtfinanzie
 
 Währung, Erzwaller Markt, Crafting-Handel mit anderen Städten, Einen Händler in Erzwall aufstellen - die Händlerquest, Sonderblöcke-Regelungen, Wie komm' ich an Kohle?
 
+## Reisen
+
+Zu Fuß: Sehr langsam, es sei denn du benutzt Tränke der Geschwindigkeit.
+
+Mit dem Minecart: Sehr langsam, vom Hauptbahnhof auf der Rathausinsel kommst du nach Erzwall oder in andere Stadtviertel von Wintershelm.
+
+Mit dem Pferd: Schnell, da wir auf Hof Goldglanz in den Bauernschaften extra für diesen Zweck die Pferde züchten.
+
+Mit dem Drachen: Der Drachenturm befindet sich neben dem Stadtlager im Rathausviertel. Ein Flug nach Erzwall kostet 10 Draken. Zu jeder anderen Station 20 Draken.
+
+Mit einem Ticket: Es gibt Teleport-Tickets mit denen du am schnellsten von einer Stadt in die andere reisen kannst. Ein Ticket kostet 75 Draken.
+
 ## Aktuelles
 
 aktuelle gemeinsame Projekte, Youtube
